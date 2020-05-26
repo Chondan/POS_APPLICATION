@@ -1,0 +1,75 @@
+C:\Users\5930091221\Desktop\CHONDAN\Fruit\Fruit\bin\x64\Debug\Fruit.exe.config
+C:\Users\5930091221\Desktop\CHONDAN\Fruit\Fruit\bin\x64\Debug\Fruit.exe
+C:\Users\5930091221\Desktop\CHONDAN\Fruit\Fruit\bin\x64\Debug\Fruit.pdb
+C:\Users\5930091221\Desktop\CHONDAN\Fruit\Fruit\obj\x64\Debug\Fruit.Form1.resources
+C:\Users\5930091221\Desktop\CHONDAN\Fruit\Fruit\obj\x64\Debug\Fruit.Properties.Resources.resources
+C:\Users\5930091221\Desktop\CHONDAN\Fruit\Fruit\obj\x64\Debug\Fruit.csproj.GenerateResource.cache
+C:\Users\5930091221\Desktop\CHONDAN\Fruit\Fruit\obj\x64\Debug\Fruit.csproj.CoreCompileInputs.cache
+C:\Users\5930091221\Desktop\CHONDAN\Fruit\Fruit\obj\x64\Debug\Fruit.exe
+C:\Users\5930091221\Desktop\CHONDAN\Fruit\Fruit\obj\x64\Debug\Fruit.pdb
+C:\Users\5930091221\Desktop\CHONDAN\Fruit\Fruit\obj\x64\Debug\Fruit.csprojAssemblyReference.cache
+C:\Users\5930091221\Desktop\CHONDAN\Fruit\Fruit\obj\x64\Debug\Fruit.HomePage.resources
+C:\Users\5930091221\Desktop\CHONDAN\Fruit\Fruit\obj\x64\Debug\Fruit.pos.resources
+C:\Users\5930091221\Desktop\CHONDAN\Fruit03_02_2020\Fruit\bin\x64\Debug\Fruit.exe.config
+C:\Users\5930091221\Desktop\CHONDAN\Fruit03_02_2020\Fruit\bin\x64\Debug\Fruit.exe
+C:\Users\5930091221\Desktop\CHONDAN\Fruit03_02_2020\Fruit\bin\x64\Debug\Fruit.pdb
+C:\Users\5930091221\Desktop\CHONDAN\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.csprojAssemblyReference.cache
+C:\Users\5930091221\Desktop\CHONDAN\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.Form1.resources
+C:\Users\5930091221\Desktop\CHONDAN\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.HomePage.resources
+C:\Users\5930091221\Desktop\CHONDAN\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.pos.resources
+C:\Users\5930091221\Desktop\CHONDAN\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.Properties.Resources.resources
+C:\Users\5930091221\Desktop\CHONDAN\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.csproj.GenerateResource.cache
+C:\Users\5930091221\Desktop\CHONDAN\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.csproj.CoreCompileInputs.cache
+C:\Users\5930091221\Desktop\CHONDAN\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.exe
+C:\Users\5930091221\Desktop\CHONDAN\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.pdb
+C:\Users\STONE\Desktop\Fruit03_02_2020\Fruit\bin\x64\Debug\Fruit.exe.config
+C:\Users\STONE\Desktop\Fruit03_02_2020\Fruit\bin\x64\Debug\Fruit.exe
+C:\Users\STONE\Desktop\Fruit03_02_2020\Fruit\bin\x64\Debug\Fruit.pdb
+C:\Users\STONE\Desktop\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.csprojAssemblyReference.cache
+C:\Users\STONE\Desktop\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.Form1.resources
+C:\Users\STONE\Desktop\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.HomePage.resources
+C:\Users\STONE\Desktop\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.pos.resources
+C:\Users\STONE\Desktop\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.Properties.Resources.resources
+C:\Users\STONE\Desktop\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.csproj.GenerateResource.cache
+C:\Users\STONE\Desktop\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.exe
+C:\Users\STONE\Desktop\Fruit03_02_2020\Fruit\obj\x64\Debug\Fruit.pdb
+C:\Users\Asus\Google Drive\Senior\ComProg\Fruit_POS\Fruit\bin\x64\Debug\Fruit.exe.config
+C:\Users\Asus\Google Drive\Senior\ComProg\Fruit_POS\Fruit\bin\x64\Debug\Fruit.exe
+C:\Users\Asus\Google Drive\Senior\ComProg\Fruit_POS\Fruit\bin\x64\Debug\Fruit.pdb
+C:\Users\Asus\Google Drive\Senior\ComProg\Fruit_POS\Fruit\obj\x64\Debug\Fruit.csprojAssemblyReference.cache
+C:\Users\Asus\Google Drive\Senior\ComProg\Fruit_POS\Fruit\obj\x64\Debug\Fruit.Form1.resources
+C:\Users\Asus\Google Drive\Senior\ComProg\Fruit_POS\Fruit\obj\x64\Debug\Fruit.HomePage.resources
+C:\Users\Asus\Google Drive\Senior\ComProg\Fruit_POS\Fruit\obj\x64\Debug\Fruit.pos.resources
+C:\Users\Asus\Google Drive\Senior\ComProg\Fruit_POS\Fruit\obj\x64\Debug\Fruit.Properties.Resources.resources
+C:\Users\Asus\Google Drive\Senior\ComProg\Fruit_POS\Fruit\obj\x64\Debug\Fruit.csproj.GenerateResource.cache
+C:\Users\Asus\Google Drive\Senior\ComProg\Fruit_POS\Fruit\obj\x64\Debug\Fruit.exe
+C:\Users\Asus\Google Drive\Senior\ComProg\Fruit_POS\Fruit\obj\x64\Debug\Fruit.pdb
+C:\Users\Asus\Desktop\Fruit_POS\Fruit\bin\x64\Debug\Fruit.exe.config
+C:\Users\Asus\Desktop\Fruit_POS\Fruit\bin\x64\Debug\Fruit.exe
+C:\Users\Asus\Desktop\Fruit_POS\Fruit\bin\x64\Debug\Fruit.pdb
+C:\Users\Asus\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.Form1.resources
+C:\Users\Asus\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.HomePage.resources
+C:\Users\Asus\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.pos.resources
+C:\Users\Asus\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.Properties.Resources.resources
+C:\Users\Asus\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.exe
+C:\Users\Asus\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.pdb
+C:\Users\Asus\Desktop\Fruit_POS\Fruit\bin\x64\Debug\BarcodeStandard.dll
+C:\Users\Asus\Desktop\Fruit_POS\Fruit\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\Asus\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.csproj.CopyComplete
+C:\Users\5930091221\Desktop\Fruit_POS\Fruit\bin\x64\Debug\Fruit.exe.config
+C:\Users\5930091221\Desktop\Fruit_POS\Fruit\bin\x64\Debug\Fruit.exe
+C:\Users\5930091221\Desktop\Fruit_POS\Fruit\bin\x64\Debug\Fruit.pdb
+C:\Users\5930091221\Desktop\Fruit_POS\Fruit\bin\x64\Debug\BarcodeStandard.dll
+C:\Users\5930091221\Desktop\Fruit_POS\Fruit\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\5930091221\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.csprojAssemblyReference.cache
+C:\Users\5930091221\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.Form1.resources
+C:\Users\5930091221\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.HomePage.resources
+C:\Users\5930091221\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.pos.resources
+C:\Users\5930091221\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.Properties.Resources.resources
+C:\Users\5930091221\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.csproj.GenerateResource.cache
+C:\Users\5930091221\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.csproj.CoreCompileInputs.cache
+C:\Users\5930091221\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.csproj.CopyComplete
+C:\Users\5930091221\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.exe
+C:\Users\5930091221\Desktop\Fruit_POS\Fruit\obj\x64\Debug\Fruit.pdb
